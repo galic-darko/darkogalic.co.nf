@@ -1,6 +1,5 @@
 <?php
 
-//phpinfo();
 require_once __DIR__.'/silex/vendor/autoload.php';
 
 $app = new Silex\Application();
